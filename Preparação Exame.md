@@ -1,7 +1,7 @@
 
 ## Aws Direct Connect
 	
-\U+1F449 **AWS Direct Connect** é um serviço da Amazon Web Services (AWS) que permite estabelecer uma conexão de rede privada dedicada entre seu data center, escritório ou ambiente de co-location e a AWS. Essa conexão dedicada pode proporcionar maior largura de banda, latência mais baixa e uma experiência de rede mais consistente em comparação com a conexão à internet pública.
+(\U+1F449) **AWS Direct Connect** é um serviço da Amazon Web Services (AWS) que permite estabelecer uma conexão de rede privada dedicada entre seu data center, escritório ou ambiente de co-location e a AWS. Essa conexão dedicada pode proporcionar maior largura de banda, latência mais baixa e uma experiência de rede mais consistente em comparação com a conexão à internet pública.
 
 Aqui estão alguns dos principais benefícios e recursos do AWS Direct Connect:
 
